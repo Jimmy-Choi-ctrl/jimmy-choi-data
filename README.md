@@ -1,22 +1,21 @@
-# jimmy-choi-data
-Data analysis projects showcasing business insights, data entry, SQL, data cleaning, and visualization.
-# Jimmy Choi — Data Portfolio
+# Jimmy Choi — Data Analytics Portfolio
 
-Welcome! This repository contains selected data analysis projects focused on business insights, data quality, and decision support.
+Welcome to my data portfolio. This repository showcases analytical projects focused on turning raw data into actionable business insights.
 
-## 🔍 What You'll Find
-- Data cleaning and transformation examples
-- SQL queries and analysis
-- Exploratory data analysis
-- Business-driven insights and recommendations
+## 🔍 Core Skills Demonstrated
+- Data cleaning and validation
+- Exploratory data analysis (EDA)
+- SQL querying and reporting
+- Business insight generation
+- Documentation and reproducibility
 
-## 📁 Projects
-| Project | Description | Tools |
-|--------|-------------|-------|
-| (Coming Soon) | Customer metrics analysis | Excel, SQL |
-| (Coming Soon) | Sales trend exploration | Python |
-| (Coming Soon) | Data cleaning workflow | Excel |
+## 📁 Featured Projects
+| Project | Focus | Tools |
+|--------|--------|-------|
+| Customer Support Analysis | Ticket trends and resolution optimization | Excel, SQL |
 
-## 🎯 About Me
-Data Specialist with 10+ years of experience in data management, analytics, transcription, translation, and customer operations. Currently pursuing Business Administration at University of the People.
+## 🎯 Professional Background
+Multilingual Data Specialist with 10+ years of experience across data management, analytics, transcription, translation, customer service, and real estate support. Currently pursuing a Business Administration degree at University of the People.
 
+## 📫 Contact
+(You may optionally add LinkedIn or portfolio link later.)
