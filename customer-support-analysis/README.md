@@ -1,26 +1,14 @@
-# Customer Support Analysis
-
-## 📌 Objective
-Analyze customer support data to identify trends, bottlenecks, and improvement opportunities.
-
 ## 📊 Dataset
-- Source: (Add source or simulated data)
-- Records: (TBD)
-- Fields: (TBD)
+- Source: Sample customer support ticket dataset
+- Records: 1,000+ tickets
+- Fields: Ticket ID, Category, Priority, Resolution Time, CSAT
 
 ## 🛠 Tools Used
-- Excel
-- SQL
-- (Add others if needed)
+- Excel (cleaning, pivot analysis)
+- SQL (aggregation queries)
 
 ## 🔍 Key Questions
-- What are the most common ticket categories?
-- Average resolution time trends?
-- Peak volume periods?
-
-## 📈 Insights
-(Coming soon)
-
-## 💡 Business Recommendations
-(Coming soon)
+- Which categories generate the highest ticket volume?
+- What drives long resolution times?
+- How does priority affect CSAT?
 
